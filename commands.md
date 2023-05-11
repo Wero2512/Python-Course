@@ -10,7 +10,8 @@
 - `CMD + SHIFT + .` - show hidden files/dirs in finder on Mac
 
 ## git commands 
--git add adds file to be committed 
+- git clone downloads the repository to local machine
+- git add adds file to be committed 
 - git commit commit changes 
 - git push push changes to online repository 
 - git pull download changes form online repository
